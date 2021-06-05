@@ -4,349 +4,348 @@ Author: Isabel María del Águila Cano
 Date: 05 de Junio de 2021
 ---
 
-
-|Term | Definition | Término | Definición | 
- | Acceptance | The process of assessing whether a   system satisfies all its  requirements | Aceptación | Proceso para evaluar si un sistema satisface todos sus requisitos | 
- | Acceptance criteria | In agile: criteria that the implementation of a user story must satisfy in order to be accepted by the stakeholders | Criterio de aceptación | En ágil: Criterio que la implementación debe satisfacer la implementación de una historia de usuario para que sea aceptada por los las partes interesadas | 
- | Acceptance test | A test that assesses whether a   system satisfies all its   requirements. | Prueba de aceptación | Prueba para valorar si un sistema satisface todos sus requisitos | 
- | Activity | An action or a set of actions that a person or group performs to accomplish a task. |  | Una acción o conjunto de acciones que una persona o grupo de personas realiza para cumplir con una tarea | 
- | Activity Model | A model of the flow of actions in some part of a system | Modelo de actividades | Un modelo del flujo de acciones en alguna parte del sistema | 
- | Activity diagram | 
- |   | A diagram type in   UML which models the flow of actions in a   system or in a   component including data flows and areas of responsibility where necessary | Diagrama de actividades | Un tipo de diagrama UML que modela el flujo de acción en un sistema o un componente incluido en el flujo de datos y áreas de responsabilidad donde sea necesario | 
- | Actor | 
- |   | 1. Generally in RE: A person, a   system or a technical device in the context of a system that interacts with the system. | 
- | 2. Especially in goal-oriented RE: a person, a   system or a technical device that may act and process information in order to achieve some   goals. | Actor | Una persona, sistema o dispositivo técnico en el contexto del sistema que interactúa con él | 
- | Adequacy (of a requirement) | 
- |   | The degree to which a   requirement expresses the   stakeholders’ true desires and needs (i.e., those they had actually in mind when stating the requirement). | Adecuación | Grado con el que un requisito expresa los verdaderos deseos y necesidades de una persona implicada (i.e. Lo que realmente tiene en la cabeza cuando se define el requisito) | 
- | Agile | 1. In general: | 
- | (a) Able to move quickly and easily. | 
- | (b) Quick, smart, and clever. | 
- | 2. In software development: A development approach which builds a product incrementally by dividing work into iterations of fixed | 
- | duration (timeboxes). | Ágiñ | En desarrollo de software una aproximación al desarrollo que construye el producto en incrementos dividiendo el trabajo en iteraciones de duración fija (intervalos de tiempo) | 
- | Ambiguity | Lo contrario de unambiguity | Ambigûedad | Lo contrario de inambigëdad | 
- | Application domain | Those parts of the real world that are relevant for determining the   context of a   system | Dominio de aplicación | Las partes del mundo real que son relevantes para determinar el contexto del sistema | 
- | Association | Synonym of work product | Asociación | Sinónimo de artefacto | 
- | Artifact | 
- |   | An intermediate or final result of system development; for example, a requirements specification | Artefacto | Un resultado intermedio o final del desarrollo del sistema, por ejemplo, una especificación de requisitos | 
- | Attribute | A characteristic property of an entity | Atributo | Característica o propiedad de una entidad | 
- | Backlog | Product backlog, sprint backlog | Pila | Pila del producto y pila del sprint | 
- | Baseline | 
- |   | A stable, change-controlled   configuration of   artifacts. Baselines serve for release planning and release definition as well as for project management purposes such as effort estimation. | Línea base | Un conjunto de artefactos estable y con cambios controlados. Las líneas base sirven para la definición de la planificación y las versiones, así como para tareas de gestión del proyecto como la estimación del esfuerzo. | 
- | Behaviour | The way in which a system reacts to stimuli, changes its state and produces observable results. | Comportamiento |  La forma en la que el sistema reacciona a un estímulo, cambia su estado y produce resultados observables. | 
- | Behavior model | A model describing the behavior of a system or   component, e.g., by a state machine. | Modelo de comportamiento | Un modelo que describe el comportamiento de un sistema o un componente | 
- | Branch | A line of configurations or work product  versions that forks away from the main line (or from another branch) at some point in time | Rama | Una bifurcación de rama principal de una  versión de producto generado / artefacto | 
- | Bug | Defect | Bug | Defecto | 
- | Burndown chart | A diagram plotting the work items that remain to accomplish on a time scale. | Gráficos de trabajo pendiente | Un diagrama de dos ejes donde se muestra los items que queda por hacer en términos de tiempo | 
- | Business requirement | A requirement stating a business goal, objective or need of an organization. | 
- |  | Requisito de negocio | Un requisito que tiene su origen el un objetivo o necesidad de la organización | 
- | Cardinality | 1. In modeling: The minimum and maximum number of objects in a relationship. In   UML, the term multiplicity is used for cardinality. | 
- | 2. In mathematics: The number of elements in a set. | Cardinalidad | El mínimo o máximo número de elementos en una relación. En UML se emplea el término multiplicidad | 
- | Change control | 
- | Board | A committee of client and supplier representatives that decides on change requests. | 
- | Abbreviation: CCB | Comité de control de cambios | Un comité de representantes de proveedores y clientes que decide sobre las peticiones de cambio | 
- | Change management | A controlled way to effect or deny a requested change of a work product | Gestión de cambios | Una forma controlada de aceptar o rechazar cambios en los productos generados | 
- | Change request | In RE: A well-argued request for changing one or more   baselined  requirements. | Solicitud de cambio | Una petición de cambio bien argumentada de uno o mas requisitos de una línea base | 
- | Changeability (of | 
- | an artifact) | The degree to which an   artifact enables a required modification of the artifact | Capacidad de ser modificado | Grado en el que un artefacto permite una modificación | 
- | Checking | 
- | (requirements) | Comprises   requirements   validation and checking requirements for qualities such as unambiguity or comprehensibility. Note that some sources define validation broader and consider the terms checking and validation to be  synonyms | Comprobación | Incluye la validación y la verificación de la calidad de los requisitos como la no ambigüedad o la grado de comprensión. Sinónimo: Validación de requisitos | 
- | Class | 
- |   | Represents a set of objects of the same kind by describing the structure of the objects, the ways they can be manipulated and how they behave | Clase | Representa un conjunto de objetos del mismo tipo que se describen mediante su estructura, la forma en la que pueden ser manipulados y como se comportan. | 
- | Class diagram | A diagrammatic representation of a class model. | Diagrama de clases | Representación gráfica de un modelo de clases | 
- | Class model | A model consisting of a set of classes and relationships between them. | Modelo de clases | Un modelo que incluye un conjunto de clases y las relaciones entre ellas | 
- | Commonality | The parts of a product line that are shared by all its members | Parte común | Son las partes de una línea de producto que son compartidas por todos sus miembros | 
- | Completeness (of requirements) | 
- |   | 1. For a single requirement: The degree to which a requirement contains all necessary information | 
- | 2. For a requirements specification: The degree to which the specification contains all information which is necessary for developing a system that satisfies the   stakeholders’ desires and needs. | Completitud | 1. Para un requisito: Grado en el que un requisito contiene toda la información necesaria | 
- | 2.   Para la especificación de requisitos: Grado en el que la especificación contiene toda la información que es necesaria para el desarrollo de un sistema que satisfaga las necesidades y deseos de las persona implicadas | 
- | Compliance | The capability of an artifact to adhere to  standards, regulations, laws, or other formally imposed documents.   Systems frequently need to comply with standards, regulations, and laws constraining the domain where the system is deployed. Such compliance can only be ensured systematically if compliance checking already starts with the   requirements. | Cumplimiento |  Capacidad de un artefacto de cumplir un estándar fijado, la legislación o cualquier otro documento impuesto formalmente. Los sistemas frecuentemente necesitan ajustarse a un estándar, legislación o normativa que restringe el dominio en el que se despliega el sistema.  | 
- | Component | 1. In general: A delimitable part of a   system. | 
- | 2. In software architecture: An encapsulated set of coherent objects or classes that jointly provide a service. Note: When viewed in isolation, a component is a   system by itself. | Componente |  1.- Parte delimitada de un sistema | 
- | 2.- En arquitectura software: Conjunto encapsulado de objetos o clases coherentes que conjuntamente proporcional un servicio  | 
- | Composition (in a technical context) | 1. An item that is composed of a set of items; forming a whole-part relationship. | 
- | 2. The act of composing a whole from a set of parts. | Composición | Un elemento está compuesto por un conjunto de otros elementos con una relación de todo-parte | 
- | Acto de componer el todo desde las partes | 
- | Configuration | A consistent set of logically coherent units. The units are individually identifiable   artifacts or parts of artifacts (e.g.,   requirements) in at most one version per unit. | Configuración | Un conjunto consistente de unidades lógicamente coherentes. Las unidades son artefactos identificables individualmente o partes de artefactos. (e.g. requisitos) con mas de una versión por unidad | 
- | Conformity (of requirements) | The degree to which a   requirements specification conforms to regulations given in some   standard. | Conformidad |  Grado en el que una especificación de requisito se ajusta a las normas dadas por algún estándar | 
- | Consistency (of requirements) | The degree to which a set of   requirements is free of contradicting statements. | Consistencia |  Grado en el que un conjunto de requisitos es libre de tener oraciones contradictorias | 
- | Constraint | A   requirement that limits the solution space beyond what is necessary for meeting the given   functional requirements and   quality requirements. | Restricción |  Un requisito puede limitar el espacio de soluciones mas allá de lo necesario para cumplir los requisitos funciones y los requisitos de calidad | 
- | Context | 1. In general: The network of thoughts and meanings needed for understanding phenomena or utterances. | 
- | 2. Especially in RE: The part of a system’s environment being relevant for understanding the system and its   requirements. Context in the second meaning is also called the  system context. | Contexto |  Es la parte del entorno del sistema que es relevante para la comprensión del sistema y sus requisitos | 
- | Context boundary | Boundary between the context of a system and those parts of the application domain that are irrelevant for the system and its requirements. The context boundary separates the relevant part of the environment of a system to be developed from the irrelevant part, i.e., the part that does not influence the system to be developed and, thus, does not have to be considered during requirements engineering. | Frontera del contexto |  Límite entre el contexto del sistema y aquellas partes del dominio de la aplicación que son irrelevantes para el sistema y sus requisitos. La frontera del contexto separa las partes irrelevantes del entorno del sistema a desarrollar de la parte irrelevante.  | 
- | Context diagram | 1. A diagrammatic representation of a context model. | 
- | 2. In   Structured Analysis, the context diagram is the root of the data flow diagram hierarchy. | Diagrama de contexto |  Una representación gráfica del modelo de contexto | 
- | Context model | A   model describing a   system in its   context. | Modelo de contexto |  Un modelo que describe un sistema en su contexto | 
- | Contex flow | The order in which a set of actions is executed. | Flujo en el contexto | El orden en el que se ejecutan un conjunto de acciones | 
- | Correctness | The degree to which the information contained in an   artifact is probably true. In RE, correctness is frequently used as a synonym for   adequacy. | Corrección |  Grado con el que la información contenida en un artefacto es probablemente verdad. En InRe se usa frecuentemente como sinónimo de adecuación | 
- | Customer | A person or organization who receives a product or service.  Also see   stakeholder | Cliente |  Persona u organismo que recibe el producto o servicio | 
- | Customer requirements specification | A coarse description of the required capabilities of a   system from the  customer’s perspective. | 
- | Usually supplied by the customer. | Especificación de requisitos del cliente |  Una descripción aproximada de las capacidades requeridas de un sistema desde la perspectiva del cliente. | 
- | Generalmente suministrado por el cliente. | 
- |  | 
- | Data flow | A sequence of data items flowing from a producer to a consumer | Flujo de datos | Secuencia de elementos de datos que van de un productor a un consumidor | 
- | Data flow model | A model that describes the functionality of a system by activities, data stores and data flows. | Modelo de flujo de datos | Un modelo que describe la funcionalidad de un sistema mediante actividades, almacenes de datos y flujos de datos. | 
- | Data flow diagram | A diagram modeling the   functionality of a   system or component by processes (also called activities), data stores and data flows. Incoming data flows trigger processes which then consume the received data, transform them, read/write persistent data held in data stores and then produce new data flows which may be intermediate results that trigger other processes or final results that leave the system. | Diagrama de flujo de datos |  Un diagrama que modela la funcionalidad de un sistema utilizando procesos, almacenes de datos y flujos de datos | 
- | Decision table | A tabular, systematic representation of a complex decision that depends on multiple criteria. | Tabla de decisión |  Una representación sistemática y tabulada de una decisión compleja que depende de multiples criterios | 
- | Defect | A spot in an  artifact that is incorrectly described or crafted. Synonym: fault, bug | Defecto |  Un aspecto en un artefacto que está descrito incorrectamente  | 
- | Design | 1.A plan or drawing produced to show how something will look, function or be structured before it is made. | 
- | 2. The activity of creating a design. | Diseño | 1, Un plano o un dibujo generado para mostrar como se verá, funcionará o se estructurará  algo antes de hacerlo | 
- | 2. La actividad de crear un diseño | 
- | Document template | A template providing a predefined skeleton structure for a document. (requirements template) | Plantilla de documento | Una plantilla que proporciona un esqueleto predefinido de la estructura de un documento (plantilla de requisito) | 
- | Domain | A range of relevant things (for some given matter); for example, an  application domain. | Dominio |  Un rango de cosas relevantes (para un tema dado), por ejemplo un dominio de aplicación | 
- | Domain Model | A model describing phenomena in an application domain. | Modelo de dominio | Un modelo que describe un fenómeno en un dominio de aplicación | 
- | Domain requirement | A domain property in the context of a system that is required to hold. | Requisito del dominio | Una propiedad del dominio en el contexto de un sistema que se necesita cumplir | 
- | Effectiveness | The degree to which something actually happens in the way it ought to happen. In RE, typically the degree to which a   system actually enables its   users to achieve their   goals as stated in the system’s   requirements. | Efectividad | El grado en que algo sucede realmente en la forma en que debería suceder. En RE, generalmente el grado en que un sistema realmente permite a sus usuarios lograr sus objetivos según lo establecido en los requisitos del sistema. | 
- | Efficiency | The degree to which a result is achieved with minimum consumption of resources | Eficiencia |  El grado en el que se consigue un resultado con el consumo mínimo de recursos | 
- | Elaboration (of requirements) | An umbrella term for requirements elicitation, negotiation and validation | Elaboración | Un término que engloba la educción, negociación y validación de los requistos | 
- | Elicitation (of | 
- | requirements) |  Requirements elicitation | 
- |   | Educción |  Educción o descubrimiento de los requisitos | 
- | End user |     User | Usuario final |  Usuario | 
- | Entity | 1. In general: an element or set of elements that may stand for any  conceivable item, e.g., a   system, a part of reality, a thing, an organization, a process, etc. | 
- | 2. In entity-relationship-modeling: an individual object which has an identity and does not depend on another object. | Entidad |  Un elemento o conjunto de elementos que pueden describir un item concebible. | 
- | Entity relationship | 
- | diagram | A graphic representation of an   entity-relationship model. Abbreviation: ERD | Diagrama entidad relación |  Representación gráfica de un modelo entidad relacion | 
- | Entity relationship | 
- | model | A   model of data that are relevant for a   system, or of the data of an  application domain. An ERM consists of a set of entity types that are each characterized by   attributes and linked by relationships. Abbreviation: ERM, ER Model | Modelo entidad relación |  Modelo de datos que es relevante para un sistema o los datos de un dominio de aplicación. | 
- | Epic | In agile development: An abstract description of a stakeholder need which is larger than what can be implemented in a single iteration | Historia extensa | En desarrollo ágil: Una descripción abstracta de una necesidad del una parte interesada que es más larga que lo que puede implementarse en una sola iteración. | 
- | Error | A discrepancy between an observed behavior or result and the specified behavior or result. An error typically is a symptom for the existence of a fault or defect in some  artifact. In colloquial English, there is sometimes no distinction between the notions of error and fault | Error |  Discrepancia entre el comportamiento o resultado observado  y el comportamiento o resultado especificado | 
- | Evolutionary prototype | A pilot system forming the core of a system to be developed. | Prototipado evolutivo |  | 
- | Exploratory prototype | A throwaway prototype used to create shared understanding, clarify ↑requirements or validate requirements. | Prototipado exploratorio |  | 
- | Fault | Defect | Falta |  Fallo | 
- | Fault Tolerance | The capability of a system to continue normal operation despite the presence of (hardware or software) faults. Fault tolerance may be stated as a   quality requirement | Tolerancia a fallos |  Capacidad de un sistema para continuar la operativa normal a pesar de la presencia de fallos (hard o soft). Se puede considerar un requisito de calidad. | 
- | Feasibility (of a requirement) | The degree to which a requirement for a ↑system can be implemented under existing constraints. | Viabilidad (de un requisito) |  | 
- | Feature | A delimitable characteristic of a system that provides value for   stakeholders. Normally comprises several   requirements and is used for communicating with stakeholders on a higher level of abstraction and for expressing variable or optional characteristics | Característica |  Una propiedad delimitable que un sistema ofrece a sus usuarios/stakeholders. Normalmente incluye varios requisitos y se utiliza para comunicarse con las personas implicadas a alto nivel de abstracción y para expresar prestaciones opcionales o variables. | 
- | Feature diagram | A diagrammatic representation of a feature model. | Diagrama de características |  | 
- | Feature model | A model describing the variable features of a product line, including their relationships and dependencies. | Modelo de características |  | 
- | Form template | A template providing a form with predefined fields to be filled-in.(requirements template) | Formulario Plantilla  |  | 
- | Functional | 
- | requirement | A   requirement concerning a result of behavior that shall be provided by a function of a   system (or of a   component or service). | Requisito funcional |  Requisito relativo a un resultado de comportamiento que debe ser ofrecido por una función de un sistema (o un componente o servicio) | 
- | Functionality | The capabilities of a system as stated by its   functional requirements. | Funcionalidad |  Prestaciones de un sistema definidas por sus requisitos funcionales | 
- | Glossary | A collection of definitions of terms that are relevant in some   domain. Frequently, a glossary also contains cross-references,   synonyms,  homonyms, acronyms, and abbreviations. | Glosario |  Conjunto de definiciones de términos que son relevantes en algún dominio. Habitualmente un glosario también contiene referencias cruzadas, sinónimos, homónimos, acrónimos y abreviaturas. | 
- | Goal | A desired state of affairs (that a   stakeholder wants to achieve). Goals describe intentions of   stakeholders. They may conflict with one another. | Objetivo |  Un estado de cosas deseado (que una parte interesada quiere lograr). Los objetivos describen las intenciones de los interesados. Pueden entrar en conflicto unos con otros. | 
- | Goal model | A   model that represents the   goals of something as an ordered structure of sub-goals. | Modelo de objetivos |  Un modelo que representa los objetivos de algo, su organizan en subobjetivos | 
- | Homonym | A term looking identical to another term, but having a different meaning. For example, bill as a bank note and bill as a list (of materials) are homonyms | Homónimo |  Un término que parece idéntico a otro pero que tiene un significado diferente. Ej: Tarjeta | 
- | Increment (in software development) | An addition to a system under development that extends, enhances or refactors (refactoring) the existing parts of the system. |  |  | 
- | Inspection | A kind of   review where the   artifact under review is inspected by a group of experts according to given criteria. The experts’ findings are then collected and consolidated. | Inspección |  Un tipo de revisión de diversos artefactos en los que un grupo de experto acuerdan los criterios de revisión. | 
- | Item | Anything which is perceivable or conceivable. | 
- | Synonyms: entity, object | Item |  | 
- | Iteration | 1. In general: The repetition of something, for example, a procedure, a process or a piece of program code. | 
- | 2. In agile development: A timeboxed unit of work in which a development team implements an increment to the system under development. | 
- | Note: In agile development, iteration and sprint are frequently used as synonyms. |  |  | 
- | Kind of requirement | There are several kinds of   requirements.   Requirements Engineering is primarily concerned with   system requirements. Beyond that, there are project requirements and process requirements. Requirements are typically sub-classified into   functional requirements,   quality requirements and   constraints. The latter two are also called   non-functional requirements | Tipo de requisito |  Existen diversos tipos de requisitos. La  InRe se ocupa principalmente de los requisitos del sistema, mas alla de ellos están los requisitos del proyecto y los requisitos del proceso. Tipicamente se subclasifican en requisitos funcionales, requisitos de calidad y restricciones. Los dos últimos se llaman requisitos no funcionales. | 
- | Language | A structured set of signs for expressing and communicating information. Signs are elements that are used for communication: expressions in a language, symbols, gestures, etc. | Lenguaje |  Un conjunto estructurado de símbolos para expresar y comunicar información. Los símbolos son elementos que se utilizar para la comunicación: expresiones en un lenguaje, simbolos, gestos, etc | 
- | Maintainability | The ease with which a software   system can be modified to correct   faults or adapt the system to changing needs. Maintainability may be stated as a   quality requirement | Mantenibilidad | La facilidad con la que un sistema de software puede modificarse para corregir fallos o adaptar el sistema a las necesidades cambiantes. La mantenibilidad puede declararse como un requisito de calidad | 
- |  | 
- | Method | The systematic application of a technique (or a set of techniques) to achieve an objective or create a work product. | Método |  | 
- | Methodology | 1. The systematic study of methods in a particular field, in particular, how to select, apply or evaluate methods systematically in a given situation. | 
- | 2. A set of methods being applied in some combination. | Metodología |  | 
- | Mock-up | A medium-fidelity prototype that demonstrates characteristics of a user interface without implementing any real functionality. | 
- |  | Boceto de la interfaz |  | 
- | Model | An abstract representation of an existing reality or a reality to be created. This definition covers the most frequent case in requirements engineering, but is a bit narrow. More generally speaking, a model is an | 
- | abstract representation of an existing   entity or an entity to be created, where entity denotes any part of reality or any other conceivable set of elements or phenomena, including other models. | Modelo | Una representación abstracta de una realidad existente o de una realidad a crear. Esta definición cubre los casos mas frecuentes en InRe, pero es un poco debil y confusa.  | 
- | Modeling | 
- | language | 
- |   | A   language for expressing   models of a certain kind. May be textual, graphic, symbolic or some combination thereof | Lenguaje de modelado |  Un lenguaje para expresar modelos de un tipo concreto. Pueden ser textuales, gráficos, simbólicos o cualquier combinación de estos. | 
- | Modificability | The degree to which a work product or system can be modified without degrading its ↑quality. | Modificabilidad |  | 
- | Multiplicity | Cardinality | Multiplicidad |  Cardinalidad | 
- | Native prototype | A high-fidelity prototype that implements critical parts of a system to an extent that stakeholders can use the prototype to see whether the prototyped part of the system will work and behave as expected. | Prototipo nativo |  | 
- | Natural language | A ↑language that people use for speaking and writing in everyday | Lenguaje natural |  | 
- | Necessity |  The degree to which an individual ↑requirement is a necessary part of the ↑requirements specification of a ↑system | 
- |  | Necesidad |  | 
- | Negotiation |  Requirements negotiation | Negociación |  | 
- | Non-functional | 
- | requirement | 
- |   | A quality requirement or a  constraint.   Performance requirements may be regarded as another category of non-functional requirements. In this glossary, performance requirements are considered to be a sub-category of quality requirements. Synonym: Extra-functional requirement | Requisito no funcional |  Un requisito de calidad o una restricción. Los requisitos de rendimiento pueden verse como otro tipo de requisitos no funcionales. | 
- | Object | In general: Anything which is perceivable or conceivable (→ item). | 
- | 2. In software engineering: an individual ↑item which has an identity, | 
- | is characterized by the values of its ↑attributes and does not depend on another item (→ entity). | Objeto |  | 
- | Object diagram | A diagrammatic representation of an ↑object model | Diagrama de objetos |  | 
- | Object model | A ↑model describing a set of ↑objects and relationships between them. | Modelo de objetos |  | 
- | Performance requirement | 
- |   | A requirement describing a performance characteristic (timing, speed, volume, capacity, throughput...). Is regarded in this glossary as a sub-category of   quality requirements, but can also be considered as a   non-functional requirements category of its own. | Requisito de rendimiento |  Un requisito que describe una característica de rendimiento. | 
- | Persona | A fictitious character representing a group of ↑users with similar needs, values and habits who are expected to use a ↑system in a similar way. | Colectivo |  | 
- | Phrase template | A template for the syntactic structure of a phrase that expresses an individual   requirement in natural   language | Plantilla de frase |  Una plantilla que define la estructura de una frase que expresa un requisito individual en lenguaje natural | 
- | Portability | The ease with which a   system can be transferred to another platform (while preserving its   functionality). Portability may be stated as a   quality requirement. | Portabilidad | La facilidad con la que un sistema puede transferirse a otra plataforma (preservando su funcionalidad). La portabilidad puede declararse como un requisito de calidad. | 
- |  | 
- | Practice | A proven way of how to carry out certain types of ↑tasks or ↑activities. |  |  | 
- | Priority (of a | 
- | requirement) | 
- |   | Documents the importance of a  requirement in comparison to other requirements according to given criteria. | Prioridad de un requisitos |  Documentan la importancia de un requisito en comparación con otros de acuerdo con un criterio dado. | 
- | Problem | A difficulty, open question or undesirable condition that needs investigation, consideration, or solution. | Problema |  | 
- | Process | A set of interrelated ↑activities performed in a given order to process information or materials. | Proceso |  | 
- | Process model | A ↑model describing a ↑process or a set of related processes | Modelo de proceso |  | 
- | Process pattern | An abstract, reusable ↑model of a ↑process which can be used to configure and instantiate a concrete process for a given situation and context. | 
- |  | Patrón de proceso |  | 
- | Product | A software-based ↑system or a ↑service provided by a system which is developed and marketed by a ↑supplier and used by ↑customers | Producto |  | 
- | Product backlog | An ordered, typically prioritized collection of work items that a development team has to work on when developing or evolving a ↑system. | Pila de producto |  | 
- | Product line | A jointly managed set of systems (provided as products or services) that | 
- | share a common core and have a configurable set of ↑variants for | 
- | satisfying needs of particular ↑customers or market segments. | Línea de producto |  | 
- | Product owner | A person responsible for a ↑product in terms of ↑functionality, value and | 
- | ↑risk. | Dueño del producto |  | 
- | Prototype | 1. In manufacturing: a piece which is built prior to the start of mass production. | 
- | 2. In software engineering: An executable piece of software that implements critical parts of a   system in advance. In   Requirements Engineering, prototypes are used as a means for requirements   elicitation and   validation. | Prototipo |  Una porción de software ejecutable que implementa partes críticas de un sistema por adelantado. En InRe se utilizan como medio de elicitación y validación | 
- | Prototyping | A ↑process that involves the creation and evaluation of ↑prototypes | Prototipado |  | 
- | Quality | 
- |   | The degree to which a set of inherent characteristics of an   entity fulfills   requirements.  The entity may be a   system, service, product,   artifact, process, person, organization, etc. An inherent  characteristic is a distinguishing feature of or property of an entity which is inherent to the entity and has not been assigned explicitly. This is the notion of quality that is generally used in industry. Note that quality in this definition just means fitness for intended use, as stated in the requirements. This is in contrast to the colloquial notion of quality which is typically connoted with goodness or excellence. | Calidad |  El grado en que un conjunto de características inherentes de una entidad cumple con los requisitos. La entidad puede ser un sistema, servicio, producto, artefacto, proceso, persona, organización, etc. Una característica inherente es una característica distintiva o propiedad de una entidad que es inherente a la entidad y no ha sido asignada explícitamente. Esta es la noción de calidad que generalmente se usa en la industria. Tenga en cuenta que la calidad en esta definición solo significa aptitud para el uso previsto, como se indica en los requisitos. Esto está en contraste con la noción coloquial de calidad que generalmente se connota con bondad o excelencia. | 
- | Quality | 
- | Requirement | A   requirement that pertains to a quality concern that is not covered by   functional requirements. | Requisito de calidad |  Un requisito que pertenece a un tema de calidad que no está cubierto por los requisitos funcionales. | 
- |  | 
- | Refactoring | The improvement of the internal ↑quality of source code, particularly the structure of the code, without changing its observable behavior. | Refactorización |  | 
- | Redundancy | Multiple occurrence of the same information or resource | Redundancia |  Ocurrencia multiple de una misma información o recurso | 
- | Release | A   configuration that has been released for installation and use by  customers. | Versión |  Una configuración que se entrega para ser instalada y utilizada por clientes | 
- | Reliability | The capability of a   system to maintain a specified level of  functionality and  performance when used under specified conditions. Reliability may be stated as a   quality requirement. | Fiabilidad |  Es la capacidad que tiene un sistema de mantener un nivel de funcionalidad y rendimiento cuando se utiliza bajo unas condiciones específicas. Es un requisito de calidad | 
- | Requirement | 1. A condition or capability needed by a   user to solve a problem or achieve an objective. | 
- | 2. A condition or capability that must be met or possessed by a system or system   component to satisfy a contract, standard, specification, or other formally imposed documents. | 
- | 3. A documented representation of a condition or capability as in (1) or (2). | 
- | Note: The definition above is the classic one from IEEE Std 610.12 of 1990. | 
- | Alternatively, we also give a more modern definition: | 
- | 1. A need perceived by a   stakeholder. | 
- | 2. A capability or property that a   system shall have. | 
- | 3. A documented representation of a need, capability or property | Requisito | 1.- una condición o capacidad que un usuario necesita para resolver un problema o lograr un objetivo. | 
- | 2.- una condición o capacidad que debe tener un sistema o un componente de un sistema para satisfacer un contrato, una norma, una especificación u otro documento formal. | 
- | 3.- una representación en forma de documento de una condición o capacidad como las expresadas en 1 o en 2. | 
- | Requirements | 
- | analysis | 
- |   | 1. Analysis of elicited requirements in order to understand and  document them. | 
- | 2. Synonym for   requirements engineering. | Análisis de requisitos | 1.- Análisis de los requisitos elicitados para entenderlos y documentarlos | 
- | 2.- Sinónimo de ingeniería de requisitos | 
- | Requirement baseline | A ↑baseline for a set of ↑requirements. | Línea base de requisitos |  | 
- | Requirements branching | Branch | Bifurcación de requisitos | Hacer ramas o bifurcaciones en los requisitos | 
- | Requirements configuration | Configuración | Configuración de requisitos | Configuración | 
- | Requirements conflict | 1. A situation where two or more ↑requirements cannot be satisfied together. | 
- | 2. A situation where two or more ↑stakeholders disagree about certain ↑requirements. | Conflicto en los requisitos |  | 
- | Requirements | 
- | discovery | Requirements elicitation | Descubrimiento de los requisitos |  Educción de requisitos | 
- | Requirements | 
- | document | 
- |   | A document consisting of a requirements specification. Frequently used as a synonym for   requirements specification. | Documento de requisitos |  Un documento que consiste en una especificación de requisitos. Frecuentemente utilizada como sinónimo para la especificación de requisitos | 
- | Requirements | 
- | elicitation | 
- |   | The process of seeking, capturing and consolidating   requirements from available requirements sources. May include the re-construction or creation of requirements. Synonym: Requirements discovery | Educción de requisitos |  Proceso de búsqueda, captura y consolidación de los requisitos a partir de las fuentes disponibles para los requisitos. Puede conllevar la reconstrucción o creación de requisitos. | 
- | Requirements Engineer | A person who – in collaboration with ↑stakeholders – elicits, documents, | 
- | validates, and manages ↑requirements | Ingeniero de requisitos |  | 
- | Requirements | 
- | Engineering | The systematic and disciplined approach to the ↑specification and | 
- | management of ↑requirements with the goal of understanding the | 
- | ↑stakeholders’ desires and needs and minimizing the risk of delivering a | 
- | ↑system that does not meet these desires and needs. | Ingeniería de requisitos |  | 
- | Requirements management | The process of managing existing ↑requirements and requirementsrelated | 
- | ↑work products, including the storing, changing and tracing of | 
- | requirements (↑traceability). | 
- |  |  |  | 
- | Requirements model | A ↑model that has been created with the purpose of specifying ↑requirements. |  |  | 
- | Requirement negotiation | A ↑process where ↑stakeholders are working toward reaching an agreement to resolve ↑requirements conflicts. |  |  | 
- | Requirements source | A systematically represented collection of ↑requirements, typically for a ↑system, that satisfies given criteria. |  |  | 
- | Requirements | 
- | specification | 
- |   | A systematically represented collection of   requirements, typically for  a   system or   component, that satisfies given criteria. In some situations we distinguish between a   customer requirements specification (typically written by the customer) and a   system requirements specification or   software requirements specification (written by the supplier). Requirements specification may also denote the activity of specifying requirements. | Especificación de requisitos |  Una colección de requisitos representada sistemáticamente, habitualmente para un sistema o componente, que satisface unos criterios dados. En algunas situaciones se puede distinguir entre especificación de requisitos del cliente (habitualmente escrita por el cliente) y una especificación de los requisitos del software (escrita por el proveedor). Finalmente, también representa la actividad de construir la especificación de requisitos | 
- | Requirements | 
- | source | 
- |   | The source from which a   requirement has been derived. Typical sources are stakeholders, documents, existing   systems and observations | Fuente de requisitos |  La fuente de la que se derivan los requisitos. Las típicas fuentes son las personas implicadas, los documentos, los sistemas existentes y las observaciones. | 
- | Requirements | 
- | management | 
- |   | The process of managing existing   requirements and requirements related artifacts. Includes particularly storing, changing and tracing of requirements   (traceability). | Gestión de requisitos |  El proceso de gestionar los requisitos existentes y los artefactos relacionados con los requisitos. Incluye particularmente el almacenamiento, cambio y rastreo de requisitos (trazabilidad). | 
- | Requirements | 
- | Engineering | A systematic and disciplined approach to the   specification and management of   requirements with the following   goals: | 
- | (1) Knowing the relevant   requirements, achieving a consensus among the   stakeholders about these   requirements, documenting them according to given standards, and managing them systematically, | 
- | (2) Understanding and documenting the   stakeholders’ desires and needs, | 
- | (3) Specifying and managing requirements to minimize the risk of delivering a   system that does not meet the   stakeholders’ desires and needs. | 
- | Abbreviation: RE | 
- | Note: All three goals address important facets of RE: (1) process orientation, | 
- | (2) stakeholder focus, and (3) importance of risk and value considerations. | Ingeniería de requisitos | Un enfoque disciplinado y sistemático para especificar y gestionar los requisitos con los siguientes objetivos: | 
- | 1.- Conocer los requisitos relevantes, alcanzando un consenso entre las personas implicadas sobre estos requisitos, documentarlos de acuerdo con los estándares, y gestionarlos sistemáticamente. | 
- | 2.-Comprender y documentar los deseos y necesidades de las personas implicadas | 
- | 3.- Especificar y gestionar los requisitos para minimizar el riesgo de entregar un sistema que no cumpla con los deseos y necesidades de las personas implicadas | 
- | Requirements | 
- | engineer | 
- |   | A person who – in collaboration with   stakeholders – elicits, documents, validates, and manages   requirements. | Ingeniero de requisitos |  Una persona, que en colaboración con el resto de personas implicadas, educe, documenta, valida y gestiona los requisitos | 
- | Requirements | 
- | baseline | A   baseline for a set of   requirements. | 
- |   | Línea base de requisitos |  Una línea base para un conjunto de requisitos | 
- | Requirements | 
- | model | A   model that has been created with the purpose of specifying   requirements. | Modelo de requisitos |  Modelo que se crea con el propósito de especificar los requisitos | 
- | Requirements | 
- | template | 
- |   | A blueprint for the syntactic structure of individual   requirements. A   phrase template is a specific requirements template for requirements written in natural   language. | Plantilla de requisitos |  Un esquema para la estructura sintáctica de los requisitos individuales. Una plantilla de frase es una plantilla de requisitos específicos para requisitos escritos en lenguaje natural. | 
- | Review | A formally organized endeavor for checking an   artifact by a group of  experts. Checking may be performed with respect to both contents and conformance. | Revisión |  Un esfuerzo formalmente organizado para verificar un artefacto por un grupo de expertos. La verificación puede realizarse con respecto tanto a los contenidos como al formato | 
- | Risk | An event that threatens the success of an endeavor, e.g., of developing or operating a   system. A risk is typically assessed in terms of its probability and potential damage. | Riesgo |  Un evento que amenaza el éxito de un esfuerzo, por ejemplo, de desarrollar u operar un sistema. Un riesgo generalmente se evalúa en términos de su probabilidad y daño potencial. | 
- | Safety | The capability of a   system to achieve an acceptable level of probability that operating the system will not result in harming people, property or the environment. Safety requirements may be stated as   quality requirements or in terms of   functional requirements | Protección |  La capacidad de un sistema para alcanzar un nivel aceptable de probabilidad de que operar el sistema no resulte en daño a las personas, la propiedad o el medio ambiente. Los requisitos de seguridad pueden establecerse como requisitos de calidad o en términos de requisitos funcionales | 
- | Scenario | 1. A description of a potential sequence of events that lead to a desired (or unwanted) result. | 
- | 2. An ordered sequence of interactions between partners, in particular between a   system and external   actors. May be a concrete sequence | 
- | (instance scenario) or a set of potential sequences (type scenario,   use case). | 
- | 3. In UML: An execution trace of a   use case | Escenario |  1. Una descripción de una secuencia potencial de eventos que conducen a un resultado deseado (o no deseado). | 
- | 2. Una secuencia ordenada de interacciones entre partes, en particular entre un sistema y actores externos. Puede ser una secuencia concreta (escenario de instancia) o un conjunto de secuencias potenciales (escenario de tipo, caso de uso). | 
- | 3. En UML: un seguimiento de ejecución de un caso de uso | 
- | Scope(of a system) | 
- |   | The range of things that can be shaped and designed when developing a   system. | Alcance |  La gama de cosas que se pueden configurar y diseñar al desarrollar un sistema. | 
- | Security | The capability of a   system to protect (a) its data and resources against unauthorized use and (b) its legitimate   users against denial of service. | Seguridad |  La capacidad de un sistema para proteger (a) sus datos y recursos contra el uso no autorizado y (b) sus usuarios legítimos contra la denegación de servicio. | 
- | Semantics | The meaning of a sign or a set of signs in a   language. | Semántica |  El significado de un símbolo o conjunto de símbolos en un lenguaje | 
- | Semi-formal | Something which is formal to some extent, but not completely. An   artifact is called semi-formal if it contains formal parts, but isn’t formalized totally. Typically, a semi-formal artifact has a defined   syntax, while the   semantics is partially defined only. | Semiformal |  Algo que es formal hasta cierto punto, pero no completamente. Un artefacto se llama semi-formal si contiene partes formales, pero no está formalizado totalmente. Por lo general, un artefacto semiformal tiene una sintaxis definida, mientras que la semántica se define solo parcialmente. | 
- | Sequence diagram | A diagram type in UML which models the interactions between a selected set of objects and/or   actors in the sequential order that those interactions occur. | Diagrama de secuencia |  Un tipo de diagrama de UML que modela las interacciones entre un conjunto seleccionado de objetos y/o actores en orden secuencial de cómo se producen estas interacciones | 
- | Software | 
- | Requirements specification | A requirements specification pertaining to a software system. | 
- | Abbreviation: SRS | Especificación de los requisitos del software |  Una especificación de requisitos relativa a un sistema software | 
- | Source (of a  requirement) | Requirements source | Fuente |  Fuente de un requisito | 
- | Specification | A systematically represented description of the properties of an   entity (a system, a device, etc.) that satisfies given criteria. It may be about required properties (requirements specification) or implemented properties (e.g., a technical product specification). | Especificación |  Una descripción representada sistemáticamente de las propiedades de una entidad (un sistema, un dispositivo, etc.) que satisface los criterios dados. Puede tratarse de propiedades requeridas (especificación de requisitos) o propiedades implementadas (por ejemplo, una especificación técnica del producto). | 
- | Specification | 
- | language | An artificial language that has been created for expressing specifications. | Lenguaje de especificación |  un lenguaje artificial que ha sido creado para expresar especificaciones | 
- | Stakeholder | A person or organization that has a (direct or indirect) influence on a   system’s   requirements. Indirect influence also includes situations where a person or organization is impacted by the system. | Implicado o parte implicada o parte interesada |  Una persona u organización que tiene una influencia (directa o indirecta) en los requisitos de un sistema. La influencia indirecta también incluye situaciones en las que una persona u organización se ve afectada por el sistema. | 
- | Standard | A uniform regulation for perceiving, manufacturing or executing something | Estándar |  Una normativa uniforme para percibir, fabricar o ejecutar algo | 
- | State machine | A   model describing the behavior of a system or   component by a finite set of states and state transitions. State transitions are triggered by events and can in turn trigger actions and new events. | 
- | Related terms: A state machine with atomic states is called a finite state automaton. State machines having states that are hierarchically and/or orthogonally decomposed are called statecharts | Máquina de estados |  Un modelo que describe el comportamiento de un sistema o componente por un conjunto finito de estados y transiciones de estado. Las transiciones de estado se desencadenan por eventos y, a su vez, pueden desencadenar acciones y nuevos eventos. | 
- | Statechart | A  state machine having states that are hierarchically and/or orthogonally decomposed. | Gráfico de estados |  Una máquina de estados que tiene estados que se descomponen jerárquicamente y / o ortogonalmente. | 
- | State-transition | 
- | diagram | 
- |   | A diagrammatic representation of a   state machine. | 
- |   | Diagrama de transición de estados |  Una representación gráfica de una máquina de estados | 
- | Steering | 
- | committee | A committee that supervises a project. | 
- |   | Comité de dirección |  El comite que supervisa el proyecto | 
- | Structured | 
- | Analysis | 
- |   | An approach for specifying the   functionality of a system based on a hierarchy of   dataflow diagrams. Data flows as well as persistent data are defined in a data dictionary. A   context diagram models the sources of incoming and the destinations of outgoing data flows | Analisis estructurado |  Un enfoque para especificar la funcionalidad de un sistema basado en una jerarquía de diagramas de flujo de datos. Los flujos de datos y los datos persistentes se definen en un diccionario de datos. Un diagrama de contexto modela las fuentes de flujos entrantes y salientes de datos | 
- | Supplier | A person or organization who delivers a product or service to a   customer | Proveedor |  Una persona u organización que entrega un producto o un servicio a un cliente | 
- | Synonym | A word having the same meaning as another word | Sinónimo |  Palabra que tiene el mismo significado que otra palabra | 
- | Syntax | The rules for constructing structured signs in a   language | Sintaxis |  Reglas para la construcción de simbolos estructurados en un determinado lenguaje | 
- | System | 
- | boundary | 
- |   | The boundary between a  system and its surrounding context. The system boundary separates the system to be developed from its environment; i.e., it separates the part of the reality that can be modified or altered by the development process from aspects of the environment that cannot be changed or modified by the development process. | Frontera del Sistema |  El límite entre un sistema y su contexto circundante. El límite del sistema separa el sistema a desarrollar de su entorno; es decir, separa la parte de la realidad que puede ser modificada o alterada por el proceso de desarrollo de aspectos del entorno que no pueden ser modificados o modificados por el proceso de desarrollo. | 
- | System | 
- | requirement | A requirement pertaining to a system or to a   component of a system. | Requisito del Sistema |  Un requisito relativo al sistema o a un componente del sistema | 
- | System | 1. In general: A principle for ordering and structuring. | 
- | 2. In Informatics: A coherent, delimitable set of   components that – by coordinated action – provides services.   Requirements Engineering is concerned with the   specification of   requirements for systems consisting of software   components, technical elements (computing hardware, devices, sensors,...) and organizational elements (persons, positions, business processes,...). Note that a   system may comprise other systems. Therefore,   components or services of a system are also considered to be | 
- | systems. | Sistema |  Un conjunto coherente y delimitable de componentes que, mediante una acción coordinada, proporciona servicios. La ingeniería de requisitos se ocupa de la especificación de requisitos para sistemas que consisten en componentes de software, elementos técnicos (hardware informático, dispositivos, sensores, ...) y elementos organizativos (personas, puestos, procesos comerciales, ...). | 
- | System context | The part of a   system’s environment that is relevant for the definition as well as the understanding of the   requirements of a   system to be developed. | Contexto del Sistema |  Parte del entorno del sistema que es relevante para la definición así como la comprensión de los requisitos del sistema a desarrollar | 
- | System requirements | 
- | specification | A requirements specification pertaining to a   system. Frequently considered to be a synonym for   requirements specification. | Especificación de requisitos del sistema |  Una especificación de los requisitos de un sistema dado. Frecuentemente se considera un sinónimo para la especificación de requisitos | 
- | Tool (in software | 
- | engineering) | 
- |   | A (software) system that helps develop, operate and maintain systems. In RE, tools support   requirements management as well as modeling, documenting, and validating   requirements. | Herramienta |  Un sistema software que ayuda a desarrollar, operar y mantener sistemas. | 
- | Traceability (of | 
- | requirements) | 
- |   | The ability to trace a requirement (1) back to its origins, (2) forward to its implementation in design and code, (3) to requirements it depends on (and vice-versa). Origins may be   stakeholders, documents, rationale, etc. Traceability of a requirement back to its origin is also called pre-RS traceability. Conversely, traceability of a requirement forward to its implementation in design and code is also called post-RS traceability. RS stands for requirements specification. Sometimes, traceability to the rationale of a requirement is considered to be a traceability category of its own | Trazabilidad |  La capacidad de rastrear un requisito (1) de vuelta a sus orígenes, (2) adelante a su implementación en diseño y código, (3) a los requisitos de los que depende (y viceversa). Los orígenes pueden ser partes interesadas, documentos, justificación, etc. | 
- | UML | Abbreviation for Unified Modeling Language, a standardized language for modeling problems or solutions | UML |  Lenguaje unificado de modelado | 
- | Unambiguity (of | 
- | requirements) | 
- |   | The degree to which a   requirement is expressed such that it cannot be understood differently by different people. | Ausencia de ambigüedad |  El grado en le que un requisito es expresado, de forma que no pueda ser comprendido de forma diferente por gente diferente. | 
- | Usability | The capability of a system to be understood, learned, used, and liked by its   users. Usability (or parts thereof) may be stated as   quality requirements. | Usabilidad |  La capacidad que tiene el sistema para ser comprendido, aprendido, utilizado y aceptado por sus usuarios.  | 
- | Use case | A description of the interactions possible between   actors and a system that, when executed, provide added value. Use cases specify a system from a   user’s (or other external actor’s) perspective: every use case describes some functionality that the system must provide for the actors involved in the use case. | Caso de uso |  Una descripción de las posibles interacciones entre los actores y un sistema que, cuando se ejecutan, proporcionan un valor añadido. Los casos de uso especifican un sistema desde la perspectiva de un usuario (u otro actor externo): cada caso de uso describe alguna funcionalidad que el sistema debe proporcionar a los actores involucrados en el caso de uso. | 
- | Use case | 
- | diagram | 
- |   | A diagram type in UML that models the   actors and the use cases of a system. The boundary between the actors and the use cases constitutes the system boundary. | Diagrama de casos de uso |  Un tipo de diagrama en UML que modela los actores y los casos de uso de un sistema. El límite entre los actores y los casos de uso constituye el límite del sistema. | 
- | User | A person who uses the functionality provided by a   system. Also called end user. | Usuario |  Persona que utiliza la funcionalidad proporcionada por el sistema | 
- | Validation  (of | 
- | requirements) | The process of checking whether documented   requirements match the   stakeholders’ needs. | 
- | Note that some sources define requirements validation broader by also including  checking requirements for qualities such as   unambiguity or comprehensibility, thus considering the terms validation an   checking to be   synonyms. | Validación |  El proceso de verificar si los requisitos documentados coinciden con las necesidades de los interesados. | 
- | Verifiability (of | 
- | requirements) | 
- |   | The degree to which the fulfillment of a   requirement by an implemented   system can be checked, e.g., by defining   acceptance test cases, measurements or inspection procedures. | Verificabilidad |  El grado en que se puede verificar el cumplimiento de un requisito por un sistema implementado, por ejemplo, definiendo casos de prueba de aceptación, mediciones o procedimientos de inspección. | 
- | Version (of an | 
- | entity) | 
- |   | If an entity exists in multiple, time-ordered occurrences, where each occurrence has been created by modifying one of its predecessors, every occurrence is a version of that entity. | Versión |  Si una entidad existe en múltiples ocurrencias ordenadas en el tiempo, donde cada ocurrencia se ha creado modificando uno de sus predecesores, cada ocurrencia es una versión de esa entidad. | 
- | View | An excerpt from an  artifact, containing only those parts one is currently interested in. A view can abstract or aggregate parts of the artifact. | Vista |  Un extracto de un artefacto, que contiene solo aquellas partes en las que uno está interesado actualmente. Una vista puede abstraer o agregar partes del artefacto. | 
- | Viewpoint | A certain perspective on the   requirements of a   system. Typical viewpoints are perspectives that a   stakeholder or stakeholder group has (for example, an end user’s perspective or an operator’s perspective). However, there can also be topical viewpoints such as a security viewpoint. Note that this definition is somewhat different from the definition of an architectural viewpoint in the international standard ISO/IEC42010:2007 (IEEE Std 1471-2000). | Punto de vista |  Una cierta perspectiva sobre los requisitos de un sistema. Los puntos de vista típicos son las perspectivas que tiene una parte interesada o un grupo de partes interesadas (por ejemplo, la perspectiva de un usuario final o la perspectiva de un operador). Sin embargo, también puede haber puntos de vista tópicos como un punto de vista de seguridad | 
- | Walkthrough | A kind of   review where the author of an   artifact under review walks a group of experts systematically through the artifact. The experts’ findings are then collected and consolidated. | Revisión guiada |  Un tipo de revisión en la que el autor de un artefacto en revisión guía a un grupo de expertos sistemáticamente a través del artefacto. Los hallazgos de los expertos se recopilan y consolidan. | 
- |  | 
- | 
+Term | Definition | Término | Definición | 
+| Acceptance | The process of assessing whether a   system satisfies all its  requirements | Aceptación | Proceso para evaluar si un sistema satisface todos sus requisitos | 
+| Acceptance criteria | In agile: criteria that the implementation of a user story must satisfy in order to be accepted by the stakeholders | Criterio de aceptación | En ágil: Criterio que la implementación debe satisfacer la implementación de una historia de usuario para que sea aceptada por los las partes interesadas | 
+| Acceptance test | A test that assesses whether a   system satisfies all its   requirements. | Prueba de aceptación | Prueba para valorar si un sistema satisface todos sus requisitos | 
+| Activity | An action or a set of actions that a person or group performs to accomplish a task. |  | Una acción o conjunto de acciones que una persona o grupo de personas realiza para cumplir con una tarea | 
+| Activity Model | A model of the flow of actions in some part of a system | Modelo de actividades | Un modelo del flujo de acciones en alguna parte del sistema | 
+| Activity diagram | 
+|   | A diagram type in   UML which models the flow of actions in a   system or in a   component including data flows and areas of responsibility where necessary | Diagrama de actividades | Un tipo de diagrama UML que modela el flujo de acción en un sistema o un componente incluido en el flujo de datos y áreas de responsabilidad donde sea necesario | 
+| Actor | 
+|   | 1. Generally in RE: A person, a   system or a technical device in the context of a system that interacts with the system. | 
+| 2. Especially in goal-oriented RE: a person, a   system or a technical device that may act and process information in order to achieve some   goals. | Actor | Una persona, sistema o dispositivo técnico en el contexto del sistema que interactúa con él | 
+| Adequacy (of a requirement) | 
+|   | The degree to which a   requirement expresses the   stakeholders’ true desires and needs (i.e., those they had actually in mind when stating the requirement). | Adecuación | Grado con el que un requisito expresa los verdaderos deseos y necesidades de una persona implicada (i.e. Lo que realmente tiene en la cabeza cuando se define el requisito) | 
+| Agile | 1. In general: | 
+| (a) Able to move quickly and easily. | 
+| (b) Quick, smart, and clever. | 
+| 2. In software development: A development approach which builds a product incrementally by dividing work into iterations of fixed | 
+| duration (timeboxes). | Ágiñ | En desarrollo de software una aproximación al desarrollo que construye el producto en incrementos dividiendo el trabajo en iteraciones de duración fija (intervalos de tiempo) | 
+| Ambiguity | Lo contrario de unambiguity | Ambigûedad | Lo contrario de inambigëdad | 
+| Application domain | Those parts of the real world that are relevant for determining the   context of a   system | Dominio de aplicación | Las partes del mundo real que son relevantes para determinar el contexto del sistema | 
+| Association | Synonym of work product | Asociación | Sinónimo de artefacto | 
+| Artifact | 
+|   | An intermediate or final result of system development; for example, a requirements specification | Artefacto | Un resultado intermedio o final del desarrollo del sistema, por ejemplo, una especificación de requisitos | 
+| Attribute | A characteristic property of an entity | Atributo | Característica o propiedad de una entidad | 
+| Backlog | Product backlog, sprint backlog | Pila | Pila del producto y pila del sprint | 
+| Baseline | 
+|   | A stable, change-controlled   configuration of   artifacts. Baselines serve for release planning and release definition as well as for project management purposes such as effort estimation. | Línea base | Un conjunto de artefactos estable y con cambios controlados. Las líneas base sirven para la definición de la planificación y las versiones, así como para tareas de gestión del proyecto como la estimación del esfuerzo. | 
+| Behaviour | The way in which a system reacts to stimuli, changes its state and produces observable results. | Comportamiento |  La forma en la que el sistema reacciona a un estímulo, cambia su estado y produce resultados observables. | 
+| Behavior model | A model describing the behavior of a system or   component, e.g., by a state machine. | Modelo de comportamiento | Un modelo que describe el comportamiento de un sistema o un componente | 
+| Branch | A line of configurations or work product  versions that forks away from the main line (or from another branch) at some point in time | Rama | Una bifurcación de rama principal de una  versión de producto generado / artefacto | 
+| Bug | Defect | Bug | Defecto | 
+| Burndown chart | A diagram plotting the work items that remain to accomplish on a time scale. | Gráficos de trabajo pendiente | Un diagrama de dos ejes donde se muestra los items que queda por hacer en términos de tiempo | 
+| Business requirement | A requirement stating a business goal, objective or need of an organization. | 
+|  | Requisito de negocio | Un requisito que tiene su origen el un objetivo o necesidad de la organización | 
+| Cardinality | 1. In modeling: The minimum and maximum number of objects in a relationship. In   UML, the term multiplicity is used for cardinality. | 
+| 2. In mathematics: The number of elements in a set. | Cardinalidad | El mínimo o máximo número de elementos en una relación. En UML se emplea el término multiplicidad | 
+| Change control | 
+| Board | A committee of client and supplier representatives that decides on change requests. | 
+| Abbreviation: CCB | Comité de control de cambios | Un comité de representantes de proveedores y clientes que decide sobre las peticiones de cambio | 
+| Change management | A controlled way to effect or deny a requested change of a work product | Gestión de cambios | Una forma controlada de aceptar o rechazar cambios en los productos generados | 
+| Change request | In RE: A well-argued request for changing one or more   baselined  requirements. | Solicitud de cambio | Una petición de cambio bien argumentada de uno o mas requisitos de una línea base | 
+| Changeability (of | 
+| an artifact) | The degree to which an   artifact enables a required modification of the artifact | Capacidad de ser modificado | Grado en el que un artefacto permite una modificación | 
+| Checking | 
+| (requirements) | Comprises   requirements   validation and checking requirements for qualities such as unambiguity or comprehensibility. Note that some sources define validation broader and consider the terms checking and validation to be  synonyms | Comprobación | Incluye la validación y la verificación de la calidad de los requisitos como la no ambigüedad o la grado de comprensión. Sinónimo: Validación de requisitos | 
+| Class | 
+|   | Represents a set of objects of the same kind by describing the structure of the objects, the ways they can be manipulated and how they behave | Clase | Representa un conjunto de objetos del mismo tipo que se describen mediante su estructura, la forma en la que pueden ser manipulados y como se comportan. | 
+| Class diagram | A diagrammatic representation of a class model. | Diagrama de clases | Representación gráfica de un modelo de clases | 
+| Class model | A model consisting of a set of classes and relationships between them. | Modelo de clases | Un modelo que incluye un conjunto de clases y las relaciones entre ellas | 
+| Commonality | The parts of a product line that are shared by all its members | Parte común | Son las partes de una línea de producto que son compartidas por todos sus miembros | 
+| Completeness (of requirements) | 
+|   | 1. For a single requirement: The degree to which a requirement contains all necessary information | 
+| 2. For a requirements specification: The degree to which the specification contains all information which is necessary for developing a system that satisfies the   stakeholders’ desires and needs. | Completitud | 1. Para un requisito: Grado en el que un requisito contiene toda la información necesaria | 
+| 2.   Para la especificación de requisitos: Grado en el que la especificación contiene toda la información que es necesaria para el desarrollo de un sistema que satisfaga las necesidades y deseos de las persona implicadas | 
+| Compliance | The capability of an artifact to adhere to  standards, regulations, laws, or other formally imposed documents.   Systems frequently need to comply with standards, regulations, and laws constraining the domain where the system is deployed. Such compliance can only be ensured systematically if compliance checking already starts with the   requirements. | Cumplimiento |  Capacidad de un artefacto de cumplir un estándar fijado, la legislación o cualquier otro documento impuesto formalmente. Los sistemas frecuentemente necesitan ajustarse a un estándar, legislación o normativa que restringe el dominio en el que se despliega el sistema.  | 
+| Component | 1. In general: A delimitable part of a   system. | 
+| 2. In software architecture: An encapsulated set of coherent objects or classes that jointly provide a service. Note: When viewed in isolation, a component is a   system by itself. | Componente |  1.- Parte delimitada de un sistema | 
+| 2.- En arquitectura software: Conjunto encapsulado de objetos o clases coherentes que conjuntamente proporcional un servicio  | 
+| Composition (in a technical context) | 1. An item that is composed of a set of items; forming a whole-part relationship. | 
+| 2. The act of composing a whole from a set of parts. | Composición | Un elemento está compuesto por un conjunto de otros elementos con una relación de todo-parte | 
+| Acto de componer el todo desde las partes | 
+| Configuration | A consistent set of logically coherent units. The units are individually identifiable   artifacts or parts of artifacts (e.g.,   requirements) in at most one version per unit. | Configuración | Un conjunto consistente de unidades lógicamente coherentes. Las unidades son artefactos identificables individualmente o partes de artefactos. (e.g. requisitos) con mas de una versión por unidad | 
+| Conformity (of requirements) | The degree to which a   requirements specification conforms to regulations given in some   standard. | Conformidad |  Grado en el que una especificación de requisito se ajusta a las normas dadas por algún estándar | 
+| Consistency (of requirements) | The degree to which a set of   requirements is free of contradicting statements. | Consistencia |  Grado en el que un conjunto de requisitos es libre de tener oraciones contradictorias | 
+| Constraint | A   requirement that limits the solution space beyond what is necessary for meeting the given   functional requirements and   quality requirements. | Restricción |  Un requisito puede limitar el espacio de soluciones mas allá de lo necesario para cumplir los requisitos funciones y los requisitos de calidad | 
+| Context | 1. In general: The network of thoughts and meanings needed for understanding phenomena or utterances. | 
+| 2. Especially in RE: The part of a system’s environment being relevant for understanding the system and its   requirements. Context in the second meaning is also called the  system context. | Contexto |  Es la parte del entorno del sistema que es relevante para la comprensión del sistema y sus requisitos | 
+| Context boundary | Boundary between the context of a system and those parts of the application domain that are irrelevant for the system and its requirements. The context boundary separates the relevant part of the environment of a system to be developed from the irrelevant part, i.e., the part that does not influence the system to be developed and, thus, does not have to be considered during requirements engineering. | Frontera del contexto |  Límite entre el contexto del sistema y aquellas partes del dominio de la aplicación que son irrelevantes para el sistema y sus requisitos. La frontera del contexto separa las partes irrelevantes del entorno del sistema a desarrollar de la parte irrelevante.  | 
+| Context diagram | 1. A diagrammatic representation of a context model. | 
+| 2. In   Structured Analysis, the context diagram is the root of the data flow diagram hierarchy. | Diagrama de contexto |  Una representación gráfica del modelo de contexto | 
+| Context model | A   model describing a   system in its   context. | Modelo de contexto |  Un modelo que describe un sistema en su contexto | 
+| Contex flow | The order in which a set of actions is executed. | Flujo en el contexto | El orden en el que se ejecutan un conjunto de acciones | 
+| Correctness | The degree to which the information contained in an   artifact is probably true. In RE, correctness is frequently used as a synonym for   adequacy. | Corrección |  Grado con el que la información contenida en un artefacto es probablemente verdad. En InRe se usa frecuentemente como sinónimo de adecuación | 
+| Customer | A person or organization who receives a product or service.  Also see   stakeholder | Cliente |  Persona u organismo que recibe el producto o servicio | 
+| Customer requirements specification | A coarse description of the required capabilities of a   system from the  customer’s perspective. | 
+| Usually supplied by the customer. | Especificación de requisitos del cliente |  Una descripción aproximada de las capacidades requeridas de un sistema desde la perspectiva del cliente. | 
+| Generalmente suministrado por el cliente. | 
+|  | 
+| Data flow | A sequence of data items flowing from a producer to a consumer | Flujo de datos | Secuencia de elementos de datos que van de un productor a un consumidor | 
+| Data flow model | A model that describes the functionality of a system by activities, data stores and data flows. | Modelo de flujo de datos | Un modelo que describe la funcionalidad de un sistema mediante actividades, almacenes de datos y flujos de datos. | 
+| Data flow diagram | A diagram modeling the   functionality of a   system or component by processes (also called activities), data stores and data flows. Incoming data flows trigger processes which then consume the received data, transform them, read/write persistent data held in data stores and then produce new data flows which may be intermediate results that trigger other processes or final results that leave the system. | Diagrama de flujo de datos |  Un diagrama que modela la funcionalidad de un sistema utilizando procesos, almacenes de datos y flujos de datos | 
+| Decision table | A tabular, systematic representation of a complex decision that depends on multiple criteria. | Tabla de decisión |  Una representación sistemática y tabulada de una decisión compleja que depende de multiples criterios | 
+| Defect | A spot in an  artifact that is incorrectly described or crafted. Synonym: fault, bug | Defecto |  Un aspecto en un artefacto que está descrito incorrectamente  | 
+| Design | 1.A plan or drawing produced to show how something will look, function or be structured before it is made. | 
+| 2. The activity of creating a design. | Diseño | 1, Un plano o un dibujo generado para mostrar como se verá, funcionará o se estructurará  algo antes de hacerlo | 
+| 2. La actividad de crear un diseño | 
+| Document template | A template providing a predefined skeleton structure for a document. (requirements template) | Plantilla de documento | Una plantilla que proporciona un esqueleto predefinido de la estructura de un documento (plantilla de requisito) | 
+| Domain | A range of relevant things (for some given matter); for example, an  application domain. | Dominio |  Un rango de cosas relevantes (para un tema dado), por ejemplo un dominio de aplicación | 
+| Domain Model | A model describing phenomena in an application domain. | Modelo de dominio | Un modelo que describe un fenómeno en un dominio de aplicación | 
+| Domain requirement | A domain property in the context of a system that is required to hold. | Requisito del dominio | Una propiedad del dominio en el contexto de un sistema que se necesita cumplir | 
+| Effectiveness | The degree to which something actually happens in the way it ought to happen. In RE, typically the degree to which a   system actually enables its   users to achieve their   goals as stated in the system’s   requirements. | Efectividad | El grado en que algo sucede realmente en la forma en que debería suceder. En RE, generalmente el grado en que un sistema realmente permite a sus usuarios lograr sus objetivos según lo establecido en los requisitos del sistema. | 
+| Efficiency | The degree to which a result is achieved with minimum consumption of resources | Eficiencia |  El grado en el que se consigue un resultado con el consumo mínimo de recursos | 
+| Elaboration (of requirements) | An umbrella term for requirements elicitation, negotiation and validation | Elaboración | Un término que engloba la educción, negociación y validación de los requistos | 
+| Elicitation (of | 
+| requirements) |  Requirements elicitation | 
+|   | Educción |  Educción o descubrimiento de los requisitos | 
+| End user |     User | Usuario final |  Usuario | 
+| Entity | 1. In general: an element or set of elements that may stand for any  conceivable item, e.g., a   system, a part of reality, a thing, an organization, a process, etc. | 
+| 2. In entity-relationship-modeling: an individual object which has an identity and does not depend on another object. | Entidad |  Un elemento o conjunto de elementos que pueden describir un item concebible. | 
+| Entity relationship | 
+| diagram | A graphic representation of an   entity-relationship model. Abbreviation: ERD | Diagrama entidad relación |  Representación gráfica de un modelo entidad relacion | 
+| Entity relationship | 
+| model | A   model of data that are relevant for a   system, or of the data of an  application domain. An ERM consists of a set of entity types that are each characterized by   attributes and linked by relationships. Abbreviation: ERM, ER Model | Modelo entidad relación |  Modelo de datos que es relevante para un sistema o los datos de un dominio de aplicación. | 
+| Epic | In agile development: An abstract description of a stakeholder need which is larger than what can be implemented in a single iteration | Historia extensa | En desarrollo ágil: Una descripción abstracta de una necesidad del una parte interesada que es más larga que lo que puede implementarse en una sola iteración. | 
+| Error | A discrepancy between an observed behavior or result and the specified behavior or result. An error typically is a symptom for the existence of a fault or defect in some  artifact. In colloquial English, there is sometimes no distinction between the notions of error and fault | Error |  Discrepancia entre el comportamiento o resultado observado  y el comportamiento o resultado especificado | 
+| Evolutionary prototype | A pilot system forming the core of a system to be developed. | Prototipado evolutivo |  | 
+| Exploratory prototype | A throwaway prototype used to create shared understanding, clarify ↑requirements or validate requirements. | Prototipado exploratorio |  | 
+| Fault | Defect | Falta |  Fallo | 
+| Fault Tolerance | The capability of a system to continue normal operation despite the presence of (hardware or software) faults. Fault tolerance may be stated as a   quality requirement | Tolerancia a fallos |  Capacidad de un sistema para continuar la operativa normal a pesar de la presencia de fallos (hard o soft). Se puede considerar un requisito de calidad. | 
+| Feasibility (of a requirement) | The degree to which a requirement for a ↑system can be implemented under existing constraints. | Viabilidad (de un requisito) |  | 
+| Feature | A delimitable characteristic of a system that provides value for   stakeholders. Normally comprises several   requirements and is used for communicating with stakeholders on a higher level of abstraction and for expressing variable or optional characteristics | Característica |  Una propiedad delimitable que un sistema ofrece a sus usuarios/stakeholders. Normalmente incluye varios requisitos y se utiliza para comunicarse con las personas implicadas a alto nivel de abstracción y para expresar prestaciones opcionales o variables. | 
+| Feature diagram | A diagrammatic representation of a feature model. | Diagrama de características |  | 
+| Feature model | A model describing the variable features of a product line, including their relationships and dependencies. | Modelo de características |  | 
+| Form template | A template providing a form with predefined fields to be filled-in.(requirements template) | Formulario Plantilla  |  | 
+| Functional | 
+| requirement | A   requirement concerning a result of behavior that shall be provided by a function of a   system (or of a   component or service). | Requisito funcional |  Requisito relativo a un resultado de comportamiento que debe ser ofrecido por una función de un sistema (o un componente o servicio) | 
+| Functionality | The capabilities of a system as stated by its   functional requirements. | Funcionalidad |  Prestaciones de un sistema definidas por sus requisitos funcionales | 
+| Glossary | A collection of definitions of terms that are relevant in some   domain. Frequently, a glossary also contains cross-references,   synonyms,  homonyms, acronyms, and abbreviations. | Glosario |  Conjunto de definiciones de términos que son relevantes en algún dominio. Habitualmente un glosario también contiene referencias cruzadas, sinónimos, homónimos, acrónimos y abreviaturas. | 
+| Goal | A desired state of affairs (that a   stakeholder wants to achieve). Goals describe intentions of   stakeholders. They may conflict with one another. | Objetivo |  Un estado de cosas deseado (que una parte interesada quiere lograr). Los objetivos describen las intenciones de los interesados. Pueden entrar en conflicto unos con otros. | 
+| Goal model | A   model that represents the   goals of something as an ordered structure of sub-goals. | Modelo de objetivos |  Un modelo que representa los objetivos de algo, su organizan en subobjetivos | 
+| Homonym | A term looking identical to another term, but having a different meaning. For example, bill as a bank note and bill as a list (of materials) are homonyms | Homónimo |  Un término que parece idéntico a otro pero que tiene un significado diferente. Ej: Tarjeta | 
+| Increment (in software development) | An addition to a system under development that extends, enhances or refactors (refactoring) the existing parts of the system. |  |  | 
+| Inspection | A kind of   review where the   artifact under review is inspected by a group of experts according to given criteria. The experts’ findings are then collected and consolidated. | Inspección |  Un tipo de revisión de diversos artefactos en los que un grupo de experto acuerdan los criterios de revisión. | 
+| Item | Anything which is perceivable or conceivable. | 
+| Synonyms: entity, object | Item |  | 
+| Iteration | 1. In general: The repetition of something, for example, a procedure, a process or a piece of program code. | 
+| 2. In agile development: A timeboxed unit of work in which a development team implements an increment to the system under development. | 
+| Note: In agile development, iteration and sprint are frequently used as synonyms. |  |  | 
+| Kind of requirement | There are several kinds of   requirements.   Requirements Engineering is primarily concerned with   system requirements. Beyond that, there are project requirements and process requirements. Requirements are typically sub-classified into   functional requirements,   quality requirements and   constraints. The latter two are also called   non-functional requirements | Tipo de requisito |  Existen diversos tipos de requisitos. La  InRe se ocupa principalmente de los requisitos del sistema, mas alla de ellos están los requisitos del proyecto y los requisitos del proceso. Tipicamente se subclasifican en requisitos funcionales, requisitos de calidad y restricciones. Los dos últimos se llaman requisitos no funcionales. | 
+| Language | A structured set of signs for expressing and communicating information. Signs are elements that are used for communication: expressions in a language, symbols, gestures, etc. | Lenguaje |  Un conjunto estructurado de símbolos para expresar y comunicar información. Los símbolos son elementos que se utilizar para la comunicación: expresiones en un lenguaje, simbolos, gestos, etc | 
+| Maintainability | The ease with which a software   system can be modified to correct   faults or adapt the system to changing needs. Maintainability may be stated as a   quality requirement | Mantenibilidad | La facilidad con la que un sistema de software puede modificarse para corregir fallos o adaptar el sistema a las necesidades cambiantes. La mantenibilidad puede declararse como un requisito de calidad | 
+|  | 
+| Method | The systematic application of a technique (or a set of techniques) to achieve an objective or create a work product. | Método |  | 
+| Methodology | 1. The systematic study of methods in a particular field, in particular, how to select, apply or evaluate methods systematically in a given situation. | 
+| 2. A set of methods being applied in some combination. | Metodología |  | 
+| Mock-up | A medium-fidelity prototype that demonstrates characteristics of a user interface without implementing any real functionality. | 
+|  | Boceto de la interfaz |  | 
+| Model | An abstract representation of an existing reality or a reality to be created. This definition covers the most frequent case in requirements engineering, but is a bit narrow. More generally speaking, a model is an | 
+| abstract representation of an existing   entity or an entity to be created, where entity denotes any part of reality or any other conceivable set of elements or phenomena, including other models. | Modelo | Una representación abstracta de una realidad existente o de una realidad a crear. Esta definición cubre los casos mas frecuentes en InRe, pero es un poco debil y confusa.  | 
+| Modeling | 
+| language | 
+|   | A   language for expressing   models of a certain kind. May be textual, graphic, symbolic or some combination thereof | Lenguaje de modelado |  Un lenguaje para expresar modelos de un tipo concreto. Pueden ser textuales, gráficos, simbólicos o cualquier combinación de estos. | 
+| Modificability | The degree to which a work product or system can be modified without degrading its ↑quality. | Modificabilidad |  | 
+| Multiplicity | Cardinality | Multiplicidad |  Cardinalidad | 
+| Native prototype | A high-fidelity prototype that implements critical parts of a system to an extent that stakeholders can use the prototype to see whether the prototyped part of the system will work and behave as expected. | Prototipo nativo |  | 
+| Natural language | A ↑language that people use for speaking and writing in everyday | Lenguaje natural |  | 
+| Necessity |  The degree to which an individual ↑requirement is a necessary part of the ↑requirements specification of a ↑system | 
+|  | Necesidad |  | 
+| Negotiation |  Requirements negotiation | Negociación |  | 
+| Non-functional | 
+| requirement | 
+|   | A quality requirement or a  constraint.   Performance requirements may be regarded as another category of non-functional requirements. In this glossary, performance requirements are considered to be a sub-category of quality requirements. Synonym: Extra-functional requirement | Requisito no funcional |  Un requisito de calidad o una restricción. Los requisitos de rendimiento pueden verse como otro tipo de requisitos no funcionales. | 
+| Object | In general: Anything which is perceivable or conceivable (→ item). | 
+| 2. In software engineering: an individual ↑item which has an identity, | 
+| is characterized by the values of its ↑attributes and does not depend on another item (→ entity). | Objeto |  | 
+| Object diagram | A diagrammatic representation of an ↑object model | Diagrama de objetos |  | 
+| Object model | A ↑model describing a set of ↑objects and relationships between them. | Modelo de objetos |  | 
+| Performance requirement | 
+|   | A requirement describing a performance characteristic (timing, speed, volume, capacity, throughput...). Is regarded in this glossary as a sub-category of   quality requirements, but can also be considered as a   non-functional requirements category of its own. | Requisito de rendimiento |  Un requisito que describe una característica de rendimiento. | 
+| Persona | A fictitious character representing a group of ↑users with similar needs, values and habits who are expected to use a ↑system in a similar way. | Colectivo |  | 
+| Phrase template | A template for the syntactic structure of a phrase that expresses an individual   requirement in natural   language | Plantilla de frase |  Una plantilla que define la estructura de una frase que expresa un requisito individual en lenguaje natural | 
+| Portability | The ease with which a   system can be transferred to another platform (while preserving its   functionality). Portability may be stated as a   quality requirement. | Portabilidad | La facilidad con la que un sistema puede transferirse a otra plataforma (preservando su funcionalidad). La portabilidad puede declararse como un requisito de calidad. | 
+|  | 
+| Practice | A proven way of how to carry out certain types of ↑tasks or ↑activities. |  |  | 
+| Priority (of a | 
+| requirement) | 
+|   | Documents the importance of a  requirement in comparison to other requirements according to given criteria. | Prioridad de un requisitos |  Documentan la importancia de un requisito en comparación con otros de acuerdo con un criterio dado. | 
+| Problem | A difficulty, open question or undesirable condition that needs investigation, consideration, or solution. | Problema |  | 
+| Process | A set of interrelated ↑activities performed in a given order to process information or materials. | Proceso |  | 
+| Process model | A ↑model describing a ↑process or a set of related processes | Modelo de proceso |  | 
+| Process pattern | An abstract, reusable ↑model of a ↑process which can be used to configure and instantiate a concrete process for a given situation and context. | 
+|  | Patrón de proceso |  | 
+| Product | A software-based ↑system or a ↑service provided by a system which is developed and marketed by a ↑supplier and used by ↑customers | Producto |  | 
+| Product backlog | An ordered, typically prioritized collection of work items that a development team has to work on when developing or evolving a ↑system. | Pila de producto |  | 
+| Product line | A jointly managed set of systems (provided as products or services) that | 
+| share a common core and have a configurable set of ↑variants for | 
+| satisfying needs of particular ↑customers or market segments. | Línea de producto |  | 
+| Product owner | A person responsible for a ↑product in terms of ↑functionality, value and | 
+| ↑risk. | Dueño del producto |  | 
+| Prototype | 1. In manufacturing: a piece which is built prior to the start of mass production. | 
+| 2. In software engineering: An executable piece of software that implements critical parts of a   system in advance. In   Requirements Engineering, prototypes are used as a means for requirements   elicitation and   validation. | Prototipo |  Una porción de software ejecutable que implementa partes críticas de un sistema por adelantado. En InRe se utilizan como medio de elicitación y validación | 
+| Prototyping | A ↑process that involves the creation and evaluation of ↑prototypes | Prototipado |  | 
+| Quality | 
+|   | The degree to which a set of inherent characteristics of an   entity fulfills   requirements.  The entity may be a   system, service, product,   artifact, process, person, organization, etc. An inherent  characteristic is a distinguishing feature of or property of an entity which is inherent to the entity and has not been assigned explicitly. This is the notion of quality that is generally used in industry. Note that quality in this definition just means fitness for intended use, as stated in the requirements. This is in contrast to the colloquial notion of quality which is typically connoted with goodness or excellence. | Calidad |  El grado en que un conjunto de características inherentes de una entidad cumple con los requisitos. La entidad puede ser un sistema, servicio, producto, artefacto, proceso, persona, organización, etc. Una característica inherente es una característica distintiva o propiedad de una entidad que es inherente a la entidad y no ha sido asignada explícitamente. Esta es la noción de calidad que generalmente se usa en la industria. Tenga en cuenta que la calidad en esta definición solo significa aptitud para el uso previsto, como se indica en los requisitos. Esto está en contraste con la noción coloquial de calidad que generalmente se connota con bondad o excelencia. | 
+| Quality | 
+| Requirement | A   requirement that pertains to a quality concern that is not covered by   functional requirements. | Requisito de calidad |  Un requisito que pertenece a un tema de calidad que no está cubierto por los requisitos funcionales. | 
+|  | 
+| Refactoring | The improvement of the internal ↑quality of source code, particularly the structure of the code, without changing its observable behavior. | Refactorización |  | 
+| Redundancy | Multiple occurrence of the same information or resource | Redundancia |  Ocurrencia multiple de una misma información o recurso | 
+| Release | A   configuration that has been released for installation and use by  customers. | Versión |  Una configuración que se entrega para ser instalada y utilizada por clientes | 
+| Reliability | The capability of a   system to maintain a specified level of  functionality and  performance when used under specified conditions. Reliability may be stated as a   quality requirement. | Fiabilidad |  Es la capacidad que tiene un sistema de mantener un nivel de funcionalidad y rendimiento cuando se utiliza bajo unas condiciones específicas. Es un requisito de calidad | 
+| Requirement | 1. A condition or capability needed by a   user to solve a problem or achieve an objective. | 
+| 2. A condition or capability that must be met or possessed by a system or system   component to satisfy a contract, standard, specification, or other formally imposed documents. | 
+| 3. A documented representation of a condition or capability as in (1) or (2). | 
+| Note: The definition above is the classic one from IEEE Std 610.12 of 1990. | 
+| Alternatively, we also give a more modern definition: | 
+| 1. A need perceived by a   stakeholder. | 
+| 2. A capability or property that a   system shall have. | 
+| 3. A documented representation of a need, capability or property | Requisito | 1.- una condición o capacidad que un usuario necesita para resolver un problema o lograr un objetivo. | 
+| 2.- una condición o capacidad que debe tener un sistema o un componente de un sistema para satisfacer un contrato, una norma, una especificación u otro documento formal. | 
+| 3.- una representación en forma de documento de una condición o capacidad como las expresadas en 1 o en 2. | 
+| Requirements | 
+| analysis | 
+|   | 1. Analysis of elicited requirements in order to understand and  document them. | 
+| 2. Synonym for   requirements engineering. | Análisis de requisitos | 1.- Análisis de los requisitos elicitados para entenderlos y documentarlos | 
+| 2.- Sinónimo de ingeniería de requisitos | 
+| Requirement baseline | A ↑baseline for a set of ↑requirements. | Línea base de requisitos |  | 
+| Requirements branching | Branch | Bifurcación de requisitos | Hacer ramas o bifurcaciones en los requisitos | 
+| Requirements configuration | Configuración | Configuración de requisitos | Configuración | 
+| Requirements conflict | 1. A situation where two or more ↑requirements cannot be satisfied together. | 
+| 2. A situation where two or more ↑stakeholders disagree about certain ↑requirements. | Conflicto en los requisitos |  | 
+| Requirements | 
+| discovery | Requirements elicitation | Descubrimiento de los requisitos |  Educción de requisitos | 
+| Requirements | 
+| document | 
+|   | A document consisting of a requirements specification. Frequently used as a synonym for   requirements specification. | Documento de requisitos |  Un documento que consiste en una especificación de requisitos. Frecuentemente utilizada como sinónimo para la especificación de requisitos | 
+| Requirements | 
+| elicitation | 
+|   | The process of seeking, capturing and consolidating   requirements from available requirements sources. May include the re-construction or creation of requirements. Synonym: Requirements discovery | Educción de requisitos |  Proceso de búsqueda, captura y consolidación de los requisitos a partir de las fuentes disponibles para los requisitos. Puede conllevar la reconstrucción o creación de requisitos. | 
+| Requirements Engineer | A person who – in collaboration with ↑stakeholders – elicits, documents, | 
+| validates, and manages ↑requirements | Ingeniero de requisitos |  | 
+| Requirements | 
+| Engineering | The systematic and disciplined approach to the ↑specification and | 
+| management of ↑requirements with the goal of understanding the | 
+| ↑stakeholders’ desires and needs and minimizing the risk of delivering a | 
+| ↑system that does not meet these desires and needs. | Ingeniería de requisitos |  | 
+| Requirements management | The process of managing existing ↑requirements and requirementsrelated | 
+| ↑work products, including the storing, changing and tracing of | 
+| requirements (↑traceability). | 
+|  |  |  | 
+| Requirements model | A ↑model that has been created with the purpose of specifying ↑requirements. |  |  | 
+| Requirement negotiation | A ↑process where ↑stakeholders are working toward reaching an agreement to resolve ↑requirements conflicts. |  |  | 
+| Requirements source | A systematically represented collection of ↑requirements, typically for a ↑system, that satisfies given criteria. |  |  | 
+| Requirements | 
+| specification | 
+|   | A systematically represented collection of   requirements, typically for  a   system or   component, that satisfies given criteria. In some situations we distinguish between a   customer requirements specification (typically written by the customer) and a   system requirements specification or   software requirements specification (written by the supplier). Requirements specification may also denote the activity of specifying requirements. | Especificación de requisitos |  Una colección de requisitos representada sistemáticamente, habitualmente para un sistema o componente, que satisface unos criterios dados. En algunas situaciones se puede distinguir entre especificación de requisitos del cliente (habitualmente escrita por el cliente) y una especificación de los requisitos del software (escrita por el proveedor). Finalmente, también representa la actividad de construir la especificación de requisitos | 
+| Requirements | 
+| source | 
+|   | The source from which a   requirement has been derived. Typical sources are stakeholders, documents, existing   systems and observations | Fuente de requisitos |  La fuente de la que se derivan los requisitos. Las típicas fuentes son las personas implicadas, los documentos, los sistemas existentes y las observaciones. | 
+| Requirements | 
+| management | 
+|   | The process of managing existing   requirements and requirements related artifacts. Includes particularly storing, changing and tracing of requirements   (traceability). | Gestión de requisitos |  El proceso de gestionar los requisitos existentes y los artefactos relacionados con los requisitos. Incluye particularmente el almacenamiento, cambio y rastreo de requisitos (trazabilidad). | 
+| Requirements | 
+| Engineering | A systematic and disciplined approach to the   specification and management of   requirements with the following   goals: | 
+| (1) Knowing the relevant   requirements, achieving a consensus among the   stakeholders about these   requirements, documenting them according to given standards, and managing them systematically, | 
+| (2) Understanding and documenting the   stakeholders’ desires and needs, | 
+| (3) Specifying and managing requirements to minimize the risk of delivering a   system that does not meet the   stakeholders’ desires and needs. | 
+| Abbreviation: RE | 
+| Note: All three goals address important facets of RE: (1) process orientation, | 
+| (2) stakeholder focus, and (3) importance of risk and value considerations. | Ingeniería de requisitos | Un enfoque disciplinado y sistemático para especificar y gestionar los requisitos con los siguientes objetivos: | 
+| 1.- Conocer los requisitos relevantes, alcanzando un consenso entre las personas implicadas sobre estos requisitos, documentarlos de acuerdo con los estándares, y gestionarlos sistemáticamente. | 
+| 2.-Comprender y documentar los deseos y necesidades de las personas implicadas | 
+| 3.- Especificar y gestionar los requisitos para minimizar el riesgo de entregar un sistema que no cumpla con los deseos y necesidades de las personas implicadas | 
+| Requirements | 
+| engineer | 
+|   | A person who – in collaboration with   stakeholders – elicits, documents, validates, and manages   requirements. | Ingeniero de requisitos |  Una persona, que en colaboración con el resto de personas implicadas, educe, documenta, valida y gestiona los requisitos | 
+| Requirements | 
+| baseline | A   baseline for a set of   requirements. | 
+|   | Línea base de requisitos |  Una línea base para un conjunto de requisitos | 
+| Requirements | 
+| model | A   model that has been created with the purpose of specifying   requirements. | Modelo de requisitos |  Modelo que se crea con el propósito de especificar los requisitos | 
+| Requirements | 
+| template | 
+|   | A blueprint for the syntactic structure of individual   requirements. A   phrase template is a specific requirements template for requirements written in natural   language. | Plantilla de requisitos |  Un esquema para la estructura sintáctica de los requisitos individuales. Una plantilla de frase es una plantilla de requisitos específicos para requisitos escritos en lenguaje natural. | 
+| Review | A formally organized endeavor for checking an   artifact by a group of  experts. Checking may be performed with respect to both contents and conformance. | Revisión |  Un esfuerzo formalmente organizado para verificar un artefacto por un grupo de expertos. La verificación puede realizarse con respecto tanto a los contenidos como al formato | 
+| Risk | An event that threatens the success of an endeavor, e.g., of developing or operating a   system. A risk is typically assessed in terms of its probability and potential damage. | Riesgo |  Un evento que amenaza el éxito de un esfuerzo, por ejemplo, de desarrollar u operar un sistema. Un riesgo generalmente se evalúa en términos de su probabilidad y daño potencial. | 
+| Safety | The capability of a   system to achieve an acceptable level of probability that operating the system will not result in harming people, property or the environment. Safety requirements may be stated as   quality requirements or in terms of   functional requirements | Protección |  La capacidad de un sistema para alcanzar un nivel aceptable de probabilidad de que operar el sistema no resulte en daño a las personas, la propiedad o el medio ambiente. Los requisitos de seguridad pueden establecerse como requisitos de calidad o en términos de requisitos funcionales | 
+| Scenario | 1. A description of a potential sequence of events that lead to a desired (or unwanted) result. | 
+| 2. An ordered sequence of interactions between partners, in particular between a   system and external   actors. May be a concrete sequence | 
+| (instance scenario) or a set of potential sequences (type scenario,   use case). | 
+| 3. In UML: An execution trace of a   use case | Escenario |  1. Una descripción de una secuencia potencial de eventos que conducen a un resultado deseado (o no deseado). | 
+| 2. Una secuencia ordenada de interacciones entre partes, en particular entre un sistema y actores externos. Puede ser una secuencia concreta (escenario de instancia) o un conjunto de secuencias potenciales (escenario de tipo, caso de uso). | 
+| 3. En UML: un seguimiento de ejecución de un caso de uso | 
+| Scope(of a system) | 
+|   | The range of things that can be shaped and designed when developing a   system. | Alcance |  La gama de cosas que se pueden configurar y diseñar al desarrollar un sistema. | 
+| Security | The capability of a   system to protect (a) its data and resources against unauthorized use and (b) its legitimate   users against denial of service. | Seguridad |  La capacidad de un sistema para proteger (a) sus datos y recursos contra el uso no autorizado y (b) sus usuarios legítimos contra la denegación de servicio. | 
+| Semantics | The meaning of a sign or a set of signs in a   language. | Semántica |  El significado de un símbolo o conjunto de símbolos en un lenguaje | 
+| Semi-formal | Something which is formal to some extent, but not completely. An   artifact is called semi-formal if it contains formal parts, but isn’t formalized totally. Typically, a semi-formal artifact has a defined   syntax, while the   semantics is partially defined only. | Semiformal |  Algo que es formal hasta cierto punto, pero no completamente. Un artefacto se llama semi-formal si contiene partes formales, pero no está formalizado totalmente. Por lo general, un artefacto semiformal tiene una sintaxis definida, mientras que la semántica se define solo parcialmente. | 
+| Sequence diagram | A diagram type in UML which models the interactions between a selected set of objects and/or   actors in the sequential order that those interactions occur. | Diagrama de secuencia |  Un tipo de diagrama de UML que modela las interacciones entre un conjunto seleccionado de objetos y/o actores en orden secuencial de cómo se producen estas interacciones | 
+| Software | 
+| Requirements specification | A requirements specification pertaining to a software system. | 
+| Abbreviation: SRS | Especificación de los requisitos del software |  Una especificación de requisitos relativa a un sistema software | 
+| Source (of a  requirement) | Requirements source | Fuente |  Fuente de un requisito | 
+| Specification | A systematically represented description of the properties of an   entity (a system, a device, etc.) that satisfies given criteria. It may be about required properties (requirements specification) or implemented properties (e.g., a technical product specification). | Especificación |  Una descripción representada sistemáticamente de las propiedades de una entidad (un sistema, un dispositivo, etc.) que satisface los criterios dados. Puede tratarse de propiedades requeridas (especificación de requisitos) o propiedades implementadas (por ejemplo, una especificación técnica del producto). | 
+| Specification | 
+| language | An artificial language that has been created for expressing specifications. | Lenguaje de especificación |  un lenguaje artificial que ha sido creado para expresar especificaciones | 
+| Stakeholder | A person or organization that has a (direct or indirect) influence on a   system’s   requirements. Indirect influence also includes situations where a person or organization is impacted by the system. | Implicado o parte implicada o parte interesada |  Una persona u organización que tiene una influencia (directa o indirecta) en los requisitos de un sistema. La influencia indirecta también incluye situaciones en las que una persona u organización se ve afectada por el sistema. | 
+| Standard | A uniform regulation for perceiving, manufacturing or executing something | Estándar |  Una normativa uniforme para percibir, fabricar o ejecutar algo | 
+| State machine | A   model describing the behavior of a system or   component by a finite set of states and state transitions. State transitions are triggered by events and can in turn trigger actions and new events. | 
+| Related terms: A state machine with atomic states is called a finite state automaton. State machines having states that are hierarchically and/or orthogonally decomposed are called statecharts | Máquina de estados |  Un modelo que describe el comportamiento de un sistema o componente por un conjunto finito de estados y transiciones de estado. Las transiciones de estado se desencadenan por eventos y, a su vez, pueden desencadenar acciones y nuevos eventos. | 
+| Statechart | A  state machine having states that are hierarchically and/or orthogonally decomposed. | Gráfico de estados |  Una máquina de estados que tiene estados que se descomponen jerárquicamente y / o ortogonalmente. | 
+| State-transition | 
+| diagram | 
+|   | A diagrammatic representation of a   state machine. | 
+|   | Diagrama de transición de estados |  Una representación gráfica de una máquina de estados | 
+| Steering | 
+| committee | A committee that supervises a project. | 
+|   | Comité de dirección |  El comite que supervisa el proyecto | 
+| Structured | 
+| Analysis | 
+|   | An approach for specifying the   functionality of a system based on a hierarchy of   dataflow diagrams. Data flows as well as persistent data are defined in a data dictionary. A   context diagram models the sources of incoming and the destinations of outgoing data flows | Analisis estructurado |  Un enfoque para especificar la funcionalidad de un sistema basado en una jerarquía de diagramas de flujo de datos. Los flujos de datos y los datos persistentes se definen en un diccionario de datos. Un diagrama de contexto modela las fuentes de flujos entrantes y salientes de datos | 
+| Supplier | A person or organization who delivers a product or service to a   customer | Proveedor |  Una persona u organización que entrega un producto o un servicio a un cliente | 
+| Synonym | A word having the same meaning as another word | Sinónimo |  Palabra que tiene el mismo significado que otra palabra | 
+| Syntax | The rules for constructing structured signs in a   language | Sintaxis |  Reglas para la construcción de simbolos estructurados en un determinado lenguaje | 
+| System | 
+| boundary | 
+|   | The boundary between a  system and its surrounding context. The system boundary separates the system to be developed from its environment; i.e., it separates the part of the reality that can be modified or altered by the development process from aspects of the environment that cannot be changed or modified by the development process. | Frontera del Sistema |  El límite entre un sistema y su contexto circundante. El límite del sistema separa el sistema a desarrollar de su entorno; es decir, separa la parte de la realidad que puede ser modificada o alterada por el proceso de desarrollo de aspectos del entorno que no pueden ser modificados o modificados por el proceso de desarrollo. | 
+| System | 
+| requirement | A requirement pertaining to a system or to a   component of a system. | Requisito del Sistema |  Un requisito relativo al sistema o a un componente del sistema | 
+| System | 1. In general: A principle for ordering and structuring. | 
+| 2. In Informatics: A coherent, delimitable set of   components that – by coordinated action – provides services.   Requirements Engineering is concerned with the   specification of   requirements for systems consisting of software   components, technical elements (computing hardware, devices, sensors,...) and organizational elements (persons, positions, business processes,...). Note that a   system may comprise other systems. Therefore,   components or services of a system are also considered to be | 
+| systems. | Sistema |  Un conjunto coherente y delimitable de componentes que, mediante una acción coordinada, proporciona servicios. La ingeniería de requisitos se ocupa de la especificación de requisitos para sistemas que consisten en componentes de software, elementos técnicos (hardware informático, dispositivos, sensores, ...) y elementos organizativos (personas, puestos, procesos comerciales, ...). | 
+| System context | The part of a   system’s environment that is relevant for the definition as well as the understanding of the   requirements of a   system to be developed. | Contexto del Sistema |  Parte del entorno del sistema que es relevante para la definición así como la comprensión de los requisitos del sistema a desarrollar | 
+| System requirements | 
+| specification | A requirements specification pertaining to a   system. Frequently considered to be a synonym for   requirements specification. | Especificación de requisitos del sistema |  Una especificación de los requisitos de un sistema dado. Frecuentemente se considera un sinónimo para la especificación de requisitos | 
+| Tool (in software | 
+| engineering) | 
+|   | A (software) system that helps develop, operate and maintain systems. In RE, tools support   requirements management as well as modeling, documenting, and validating   requirements. | Herramienta |  Un sistema software que ayuda a desarrollar, operar y mantener sistemas. | 
+| Traceability (of | 
+| requirements) | 
+|   | The ability to trace a requirement (1) back to its origins, (2) forward to its implementation in design and code, (3) to requirements it depends on (and vice-versa). Origins may be   stakeholders, documents, rationale, etc. Traceability of a requirement back to its origin is also called pre-RS traceability. Conversely, traceability of a requirement forward to its implementation in design and code is also called post-RS traceability. RS stands for requirements specification. Sometimes, traceability to the rationale of a requirement is considered to be a traceability category of its own | Trazabilidad |  La capacidad de rastrear un requisito (1) de vuelta a sus orígenes, (2) adelante a su implementación en diseño y código, (3) a los requisitos de los que depende (y viceversa). Los orígenes pueden ser partes interesadas, documentos, justificación, etc. | 
+| UML | Abbreviation for Unified Modeling Language, a standardized language for modeling problems or solutions | UML |  Lenguaje unificado de modelado | 
+| Unambiguity (of | 
+| requirements) | 
+|   | The degree to which a   requirement is expressed such that it cannot be understood differently by different people. | Ausencia de ambigüedad |  El grado en le que un requisito es expresado, de forma que no pueda ser comprendido de forma diferente por gente diferente. | 
+| Usability | The capability of a system to be understood, learned, used, and liked by its   users. Usability (or parts thereof) may be stated as   quality requirements. | Usabilidad |  La capacidad que tiene el sistema para ser comprendido, aprendido, utilizado y aceptado por sus usuarios.  | 
+| Use case | A description of the interactions possible between   actors and a system that, when executed, provide added value. Use cases specify a system from a   user’s (or other external actor’s) perspective: every use case describes some functionality that the system must provide for the actors involved in the use case. | Caso de uso |  Una descripción de las posibles interacciones entre los actores y un sistema que, cuando se ejecutan, proporcionan un valor añadido. Los casos de uso especifican un sistema desde la perspectiva de un usuario (u otro actor externo): cada caso de uso describe alguna funcionalidad que el sistema debe proporcionar a los actores involucrados en el caso de uso. | 
+| Use case | 
+| diagram | 
+|   | A diagram type in UML that models the   actors and the use cases of a system. The boundary between the actors and the use cases constitutes the system boundary. | Diagrama de casos de uso |  Un tipo de diagrama en UML que modela los actores y los casos de uso de un sistema. El límite entre los actores y los casos de uso constituye el límite del sistema. | 
+| User | A person who uses the functionality provided by a   system. Also called end user. | Usuario |  Persona que utiliza la funcionalidad proporcionada por el sistema | 
+| Validation  (of | 
+| requirements) | The process of checking whether documented   requirements match the   stakeholders’ needs. | 
+| Note that some sources define requirements validation broader by also including  checking requirements for qualities such as   unambiguity or comprehensibility, thus considering the terms validation an   checking to be   synonyms. | Validación |  El proceso de verificar si los requisitos documentados coinciden con las necesidades de los interesados. | 
+| Verifiability (of | 
+| requirements) | 
+|   | The degree to which the fulfillment of a   requirement by an implemented   system can be checked, e.g., by defining   acceptance test cases, measurements or inspection procedures. | Verificabilidad |  El grado en que se puede verificar el cumplimiento de un requisito por un sistema implementado, por ejemplo, definiendo casos de prueba de aceptación, mediciones o procedimientos de inspección. | 
+| Version (of an | 
+| entity) | 
+|   | If an entity exists in multiple, time-ordered occurrences, where each occurrence has been created by modifying one of its predecessors, every occurrence is a version of that entity. | Versión |  Si una entidad existe en múltiples ocurrencias ordenadas en el tiempo, donde cada ocurrencia se ha creado modificando uno de sus predecesores, cada ocurrencia es una versión de esa entidad. | 
+| View | An excerpt from an  artifact, containing only those parts one is currently interested in. A view can abstract or aggregate parts of the artifact. | Vista |  Un extracto de un artefacto, que contiene solo aquellas partes en las que uno está interesado actualmente. Una vista puede abstraer o agregar partes del artefacto. | 
+| Viewpoint | A certain perspective on the   requirements of a   system. Typical viewpoints are perspectives that a   stakeholder or stakeholder group has (for example, an end user’s perspective or an operator’s perspective). However, there can also be topical viewpoints such as a security viewpoint. Note that this definition is somewhat different from the definition of an architectural viewpoint in the international standard ISO/IEC42010:2007 (IEEE Std 1471-2000). | Punto de vista |  Una cierta perspectiva sobre los requisitos de un sistema. Los puntos de vista típicos son las perspectivas que tiene una parte interesada o un grupo de partes interesadas (por ejemplo, la perspectiva de un usuario final o la perspectiva de un operador). Sin embargo, también puede haber puntos de vista tópicos como un punto de vista de seguridad | 
+| Walkthrough | A kind of   review where the author of an   artifact under review walks a group of experts systematically through the artifact. The experts’ findings are then collected and consolidated. | Revisión guiada |  Un tipo de revisión en la que el autor de un artefacto en revisión guía a un grupo de expertos sistemáticamente a través del artefacto. Los hallazgos de los expertos se recopilan y consolidan. | 
+|  | 
+| 
