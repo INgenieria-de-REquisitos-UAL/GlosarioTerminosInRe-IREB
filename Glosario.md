@@ -8,11 +8,9 @@ Date: 05 de Junio de 2021
 |-------------------------------|-------------------------------|-------------------------------|-------------------------------|
 | Acceptance | The process of assessing whether a   system satisfies all its  requirements   | Aceptación| Proceso para evaluar si un sistema satisface todos sus requisitos|
 | Acceptance criteria | In agile: criteria that the implementation of a user story must satisfy in order to be accepted by the stakeholders| Criterio de aceptación| En ágil: Criterio que la implementación debe satisfacer la implementación de una historia de usuario para que sea aceptada por los las partes interesadas|
-| Acceptance test | A test that assesses whether a   system satisfies all its   requirements.
-| Prueba de aceptación| Prueba para valorar si un sistema satisface todos sus requisitos     |
+| Acceptance test | A test that assesses whether a   system satisfies all its   requirements.| Prueba de aceptación| Prueba para valorar si un sistema satisface todos sus requisitos     |
 | Activity| An action or a set of actions that a person or group performs to accomplish a task. | Actividad | Una acción o conjunto de acciones que una persona o grupo de personas realiza para cumplir con una tarea |
 | Activity diagram   | A diagram type in   UML which models the flow of actions in a   system or in a   component including data flows and areas of responsibility where necessary| Diagrama de actividades | Un tipo de diagrama UML que modela el flujo de acción en un sistema o un componente incluido en el flujo de datos y áreas de responsabilidad donde sea necesario |
-                                                                      
 | Activity Model| A model of the flow of actions in some part of a system | Modelo de actividades | Un modelo del flujo de acciones en alguna parte del sistema|
 | Actor| 1. Generally in RE: A person, a   system or a technical device in the context of a system that interacts with the system.                                                      | Actor| Una persona, sistema o dispositivo técnico en el contexto del sistema que interactúa con él                                                                                   |
 || 2. Especially in goal-oriented RE: a person, a   system or a technical device that may act and process information in order to achieve some   goals.                          ||                                                                                                                               |
